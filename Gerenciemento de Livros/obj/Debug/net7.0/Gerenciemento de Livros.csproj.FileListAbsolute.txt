@@ -1,0 +1,15 @@
+C:\Users\Alex\Desktop\.NET_LUISDEV\Gerenciemento de Livros\Gerenciemento de Livros\bin\Debug\net7.0\Gerenciemento de Livros.exe
+C:\Users\Alex\Desktop\.NET_LUISDEV\Gerenciemento de Livros\Gerenciemento de Livros\bin\Debug\net7.0\Gerenciemento de Livros.deps.json
+C:\Users\Alex\Desktop\.NET_LUISDEV\Gerenciemento de Livros\Gerenciemento de Livros\bin\Debug\net7.0\Gerenciemento de Livros.runtimeconfig.json
+C:\Users\Alex\Desktop\.NET_LUISDEV\Gerenciemento de Livros\Gerenciemento de Livros\bin\Debug\net7.0\Gerenciemento de Livros.dll
+C:\Users\Alex\Desktop\.NET_LUISDEV\Gerenciemento de Livros\Gerenciemento de Livros\bin\Debug\net7.0\Gerenciemento de Livros.pdb
+C:\Users\Alex\Desktop\.NET_LUISDEV\Gerenciemento de Livros\Gerenciemento de Livros\obj\Debug\net7.0\Gerenciemento de Livros.csproj.AssemblyReference.cache
+C:\Users\Alex\Desktop\.NET_LUISDEV\Gerenciemento de Livros\Gerenciemento de Livros\obj\Debug\net7.0\Gerenciemento de Livros.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Alex\Desktop\.NET_LUISDEV\Gerenciemento de Livros\Gerenciemento de Livros\obj\Debug\net7.0\Gerenciemento de Livros.AssemblyInfoInputs.cache
+C:\Users\Alex\Desktop\.NET_LUISDEV\Gerenciemento de Livros\Gerenciemento de Livros\obj\Debug\net7.0\Gerenciemento de Livros.AssemblyInfo.cs
+C:\Users\Alex\Desktop\.NET_LUISDEV\Gerenciemento de Livros\Gerenciemento de Livros\obj\Debug\net7.0\Gerenciemento de Livros.csproj.CoreCompileInputs.cache
+C:\Users\Alex\Desktop\.NET_LUISDEV\Gerenciemento de Livros\Gerenciemento de Livros\obj\Debug\net7.0\Gerenciemento de Livros.dll
+C:\Users\Alex\Desktop\.NET_LUISDEV\Gerenciemento de Livros\Gerenciemento de Livros\obj\Debug\net7.0\refint\Gerenciemento de Livros.dll
+C:\Users\Alex\Desktop\.NET_LUISDEV\Gerenciemento de Livros\Gerenciemento de Livros\obj\Debug\net7.0\Gerenciemento de Livros.pdb
+C:\Users\Alex\Desktop\.NET_LUISDEV\Gerenciemento de Livros\Gerenciemento de Livros\obj\Debug\net7.0\Gerenciemento de Livros.genruntimeconfig.cache
+C:\Users\Alex\Desktop\.NET_LUISDEV\Gerenciemento de Livros\Gerenciemento de Livros\obj\Debug\net7.0\ref\Gerenciemento de Livros.dll
